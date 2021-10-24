@@ -20,7 +20,7 @@ public class TestController {
 		}
 		
 		return users;
-		system.out.println("Hello World");
 	}
+	users.add("him");
 
 }
