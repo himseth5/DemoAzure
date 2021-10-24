@@ -21,6 +21,5 @@ public class TestController {
 		
 		return users;
 	}
-	users.add("him");
 
 }
