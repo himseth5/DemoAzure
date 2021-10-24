@@ -19,6 +19,7 @@ public class TestController {
 			users.add("User_" + i);
 		}
 		
+		users.add("him");
 		return users;
 	}
 
