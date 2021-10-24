@@ -29,8 +29,7 @@ jobs:
         with:
           name: java-app
           path: '${{ github.workspace }}/target/*.jar'
-  test:
-    runs-on: windows-latest
+  
 
   deploy:
     runs-on: windows-latest
